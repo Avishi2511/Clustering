@@ -1,7 +1,7 @@
 ## Clustering
    
 ### Dataset used:  
-Sales_Transactions_Dataset_Weekly Dataset consisting of 52 columns and 811 rows      
+Forest_Fire Dataset containing 517 instances and 12 features   
 ### Algorithms used:  
 1. K-means Clustering  
 2. Hierarchial Clustering  
@@ -15,9 +15,9 @@ Sales_Transactions_Dataset_Weekly Dataset consisting of 52 columns and 811 rows
 5. Normalisation & Transformation
 6. Normalisation, Transformation & PCA  
 
-For each algorithm, models are created using different pre-processing techniques and number of clusters- 3,4,5. The results are stored in form of a table & different graphs have been used for visualisation of the resuts from best models. Also, as seen in K-mean shift clustering the values obtained are 0 for all cases except with no data processing. This shows that this clustering algo isn't suitable for our dataset.  
+For each algorithm, models are created using different pre-processing techniques and number of clusters- 3,4,5. 
 
-###Plots
+### Plots
 
 1. KMean Clustering
 
